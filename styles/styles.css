@@ -46,7 +46,7 @@ body:before {
   transform: scale(1);
   width: 100vw;
   z-index: 0;
-  background-image: url("/image.svg");
+  background-image: url("/images/image.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
